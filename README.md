@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto foi feito acompanhando a video aula do Youtube, [clique aqui](https://www.youtube.com/watch?v=H91DhKPjhPk&list=PL85ITvJ7FLogMzb2s6K5wKpQK2nL76vUK&index=6) para acessar.
 
-Um layout foi alterado responsivo.
+Masterclass #08
 
 ## 🚀 Como Rodar
 
